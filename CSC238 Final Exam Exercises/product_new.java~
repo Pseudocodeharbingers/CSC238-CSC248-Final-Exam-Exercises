@@ -5,7 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class productfak
+public class product
 {
     // instance variables - replace the example below with your own
     private int x;
@@ -13,7 +13,7 @@ public class productfak
     /**
      * Constructor for objects of class productfak
      */
-    public productfak()
+    public product()
     {
         // initialise instance variables
         x = 0;
