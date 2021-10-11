@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n\ i\ f\ d\ r
+comment0.target=UmrahApplicant(java.lang.String,\ java.lang.String,\ char,\ double,\ char)
+comment1.params=
+comment1.target=double\ calculateCharge()
+numComments=2

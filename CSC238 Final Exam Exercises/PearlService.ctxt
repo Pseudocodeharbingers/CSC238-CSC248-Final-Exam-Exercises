@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=cn\ i\ pn
+comment0.target=PearlService(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getcustName()
+comment2.params=
+comment2.target=java.lang.String\ getIC()
+comment3.params=
+comment3.target=java.lang.String\ getpn()
+comment4.params=
+comment4.target=double\ calculateCharge()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

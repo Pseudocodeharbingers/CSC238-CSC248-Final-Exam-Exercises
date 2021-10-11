@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=n\ i\ f\ d\ t\ r
+comment0.target=HajApplicant(java.lang.String,\ java.lang.String,\ char,\ double,\ boolean,\ char)
+comment1.params=
+comment1.target=double\ calculateCharge()
+numComments=2

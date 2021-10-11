@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=cn\ i\ pn\ dm\ nd
+comment0.target=MaidService(java.lang.String,\ java.lang.String,\ java.lang.String,\ char,\ int)
+comment1.params=
+comment1.target=char\ getdmp()
+comment2.params=
+comment2.target=int\ getnod()
+comment3.params=
+comment3.target=double\ calculateCharge()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=gn\ c\ gt\ p\ g
+comment0.target=SingleGame(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ char)
+comment1.params=
+comment1.target=java.lang.String\ getPlayerName()
+comment2.params=
+comment2.target=char\ getGender()
+comment3.params=
+comment3.target=double\ calcFee()
+numComments=4

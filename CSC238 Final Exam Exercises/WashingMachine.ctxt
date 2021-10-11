@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=WashingMachine()
+comment1.params=p\ q\ c
+comment1.target=WashingMachine(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getCapacity()
+numComments=3

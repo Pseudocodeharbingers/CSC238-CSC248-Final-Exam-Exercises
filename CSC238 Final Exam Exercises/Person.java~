@@ -1,0 +1,35 @@
+
+/**
+ * Write a description of class Person here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+public class Person
+{
+    protected String name;
+    protected String ic;
+    protected double salary;
+    
+    public Person(String n,String i,double s)
+    {
+        name = n;
+        ic = i;
+        salary = s;
+    }
+    
+    public void setPerson(String n,String i,String s)
+    {
+        name = n;
+        ic = i;
+        salary = s;
+    }
+    
+    public String getName(){return name;}
+    
+    public String getIc(){return ic;}
+    
+    public double getSalary(){return salary;}
+    
+    
+}

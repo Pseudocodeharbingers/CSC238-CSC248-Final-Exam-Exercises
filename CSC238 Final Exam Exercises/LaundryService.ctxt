@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=cn\ i\ pn\ t\ ct\ q
+comment0.target=LaundryService(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ gettype()
+comment2.params=
+comment2.target=java.lang.String\ getclothType()
+comment3.params=
+comment3.target=int\ getquantity()
+comment4.params=
+comment4.target=double\ calculateCharge()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

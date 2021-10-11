@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=b\ p\ mn\ ss\ dp
+comment0.target=MobilePhone(java.lang.String,\ double,\ java.lang.String,\ double,\ double)
+comment1.params=
+comment1.target=java.lang.String\ getmodelName()
+comment2.params=
+comment2.target=double\ getscreenSize()
+comment3.params=
+comment3.target=double\ getdiscountPercent()
+comment4.params=
+comment4.target=double\ calculatePrice()
+numComments=5

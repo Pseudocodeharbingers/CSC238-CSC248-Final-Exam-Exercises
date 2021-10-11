@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n\ g\ e\ em\ s\ i\ m
+comment0.target=Citizen(java.lang.String,\ char,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ char)
+comment1.params=
+comment1.target=double\ calculateTax()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
