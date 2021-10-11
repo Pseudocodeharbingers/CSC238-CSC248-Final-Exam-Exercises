@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=sco
+comment0.target=Node2(double)
+comment1.params=sco\ nextNode
+comment1.target=Node2(double,\ Node2)
+numComments=2

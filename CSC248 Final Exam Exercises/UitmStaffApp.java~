@@ -1,0 +1,29 @@
+
+/**
+ * Write a description of class UitmStaffApp here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
+import javax.swing.JOptionPane;
+public class UitmStaffApp
+{
+    public static void main(String args[])
+    {
+        LinkedList dlink = new LinkedList();
+        UitmStaff us;
+        
+        for(int i= 0 ; i<2 ; i++)
+        {
+              String a = JOptionPane.showInputDialog("Staff ID ");
+              int si = Integer.parseInt(a);
+              String b = JOptionPane.showInputDialog("Salary ");
+              double sl = Double.parseDouble(b);
+              String c = JOptionPane.showInputDialog("Post ");
+              int p = Integer.parseInt(a);
+              
+              us = new UitmStaff(si,sl,p);
+              dlink.insertAtFront(us);
+        }
+    }
+}

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=s\ sal\ p
+comment0.target=UitmStaff(int,\ double,\ int)
+comment1.params=
+comment1.target=int\ getID()
+comment2.params=
+comment2.target=double\ getSalary()
+comment3.params=
+comment3.target=int\ getPost()
+numComments=4

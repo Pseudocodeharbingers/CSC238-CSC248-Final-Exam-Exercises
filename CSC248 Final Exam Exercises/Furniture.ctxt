@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=f\ m\ p\ pm\ d
+comment0.target=Furniture(java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getFCode()
+comment2.params=
+comment2.target=java.lang.String\ getManufacturer()
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=
+comment4.target=java.lang.String\ getMode()
+comment5.params=
+comment5.target=java.lang.String\ getDesign()
+numComments=6
